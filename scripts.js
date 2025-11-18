@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded',()=>{
   });
 
   // email obfuscation & display
-  const user = 'white.mc';
+  const user = 'helion.craft';
   const domain = 'interia.pl';
   const email = `${user}@${domain}`;
   const display = document.getElementById('email-display');
